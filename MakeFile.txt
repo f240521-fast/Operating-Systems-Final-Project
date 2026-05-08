@@ -1,0 +1,35 @@
+CC = gcc
+CFLAGS = -Wall -pthread -Iinclude
+
+all: setup bin/admissions bin/patient_simulator
+
+setup:
+	@mkdir -p bin logs
+	@chmod +x scripts/*.sh
+
+bin/admissions: src/admissions.c
+	$(CC) $(CFLAGS) src/admissions.c -o bin/admissions
+
+bin/patient_simulator: src/patient_simulator.c
+	$(CC) $(CFLAGS) src/patient_simulator.c -o bin/patient_simulator
+
+run:
+	./bin/admissions
+run-first:
+	./bin/admissions --first
+run-worst:
+	./bin/admissions --worst
+
+clean:
+	@echo "🧹 Deep Cleaning System..."
+	# 1. Kill any running hospital processes
+	@killall admissions patient_simulator 2>/dev/null || true
+	# 2. Remove the binaries and logs
+	@rm -rf bin/admissions bin/patient_simulator logs/*.txt
+	# 3. Remove the FIFOs from /tmp/
+	@rm -f /tmp/triage_fifo /tmp/discharge_fifo
+	# 4. Remove the Shared Memory segment from the Kernel
+	@ipcrm -M 0xBEDF00D 2>/dev/null || true
+	@echo "✨ System is fresh."
+
+.PHONY: all setup clean

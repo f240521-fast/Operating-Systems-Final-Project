@@ -1,0 +1,234 @@
+--- Memory Report [ALLOCATION] ---
+Patient ID: 1 | Requested: 4 units
+[Paging] Pages: 1 | Internal Frag: 0 units
+[Ward] Total Free: 28 | External Frag: 57.14%
+Active Partitions: 4
+---------------------------
+--- Memory Report [ALLOCATION] ---
+Patient ID: 2 | Requested: 2 units
+[Paging] Pages: 1 | Internal Frag: 2 units
+[Ward] Total Free: 26 | External Frag: 53.85%
+Active Partitions: 5
+---------------------------
+--- Memory Report [ALLOCATION] ---
+Patient ID: 3 | Requested: 3 units
+[Paging] Pages: 1 | Internal Frag: 1 units
+[Ward] Total Free: 23 | External Frag: 60.87%
+Active Partitions: 6
+---------------------------
+--- Memory Report [ALLOCATION] ---
+Patient ID: 4 | Requested: 1 units
+[Paging] Pages: 1 | Internal Frag: 3 units
+[Ward] Total Free: 22 | External Frag: 59.09%
+Active Partitions: 7
+---------------------------
+--- Memory Report [ALLOCATION] ---
+Patient ID: 5 | Requested: 1 units
+[Paging] Pages: 1 | Internal Frag: 3 units
+[Ward] Total Free: 21 | External Frag: 57.14%
+Active Partitions: 8
+---------------------------
+--- Memory Report [ALLOCATION] ---
+Patient ID: 6 | Requested: 4 units
+[Paging] Pages: 1 | Internal Frag: 0 units
+[Ward] Total Free: 17 | External Frag: 58.82%
+Active Partitions: 9
+---------------------------
+--- Memory Report [ALLOCATION] ---
+Patient ID: 7 | Requested: 3 units
+[Paging] Pages: 1 | Internal Frag: 1 units
+[Ward] Total Free: 14 | External Frag: 50.00%
+Active Partitions: 10
+---------------------------
+--- Memory Report [ALLOCATION] ---
+Patient ID: 8 | Requested: 4 units
+[Paging] Pages: 1 | Internal Frag: 0 units
+[Ward] Total Free: 10 | External Frag: 30.00%
+Active Partitions: 11
+---------------------------
+--- Memory Report [ALLOCATION] ---
+Patient ID: 9 | Requested: 2 units
+[Paging] Pages: 1 | Internal Frag: 2 units
+[Ward] Total Free: 8 | External Frag: 37.50%
+Active Partitions: 12
+---------------------------
+--- Memory Report [ALLOCATION] ---
+Patient ID: 10 | Requested: 1 units
+[Paging] Pages: 1 | Internal Frag: 3 units
+[Ward] Total Free: 7 | External Frag: 42.86%
+Active Partitions: 13
+---------------------------
+--- Memory Report [DEALLOCATION] ---
+Patient ID: 3 | Requested: 0 units
+[Paging] Pages: 0 | Internal Frag: 0 units
+[Ward] Total Free: 10 | External Frag: 60.00%
+Active Partitions: 13
+---------------------------
+--- Memory Report [DEALLOCATION] ---
+Patient ID: 4 | Requested: 0 units
+[Paging] Pages: 0 | Internal Frag: 0 units
+[Ward] Total Free: 11 | External Frag: 63.64%
+Active Partitions: 13
+---------------------------
+--- Memory Report [DEALLOCATION] ---
+Patient ID: 6 | Requested: 0 units
+[Paging] Pages: 0 | Internal Frag: 0 units
+[Ward] Total Free: 15 | External Frag: 53.33%
+Active Partitions: 12
+---------------------------
+--- Memory Report [ALLOCATION] ---
+Patient ID: 11 | Requested: 4 units
+[Paging] Pages: 1 | Internal Frag: 0 units
+[Ward] Total Free: 11 | External Frag: 63.64%
+Active Partitions: 13
+---------------------------
+--- Memory Report [DEALLOCATION] ---
+Patient ID: 7 | Requested: 0 units
+[Paging] Pages: 0 | Internal Frag: 0 units
+[Ward] Total Free: 14 | External Frag: 42.86%
+Active Partitions: 11
+---------------------------
+--- Memory Report [DEALLOCATION] ---
+Patient ID: 9 | Requested: 0 units
+[Paging] Pages: 0 | Internal Frag: 0 units
+[Ward] Total Free: 16 | External Frag: 50.00%
+Active Partitions: 10
+---------------------------
+--- Memory Report [DEALLOCATION] ---
+Patient ID: 10 | Requested: 0 units
+[Paging] Pages: 0 | Internal Frag: 0 units
+[Ward] Total Free: 17 | External Frag: 52.94%
+Active Partitions: 8
+---------------------------
+--- Memory Report [DEALLOCATION] ---
+Patient ID: 1 | Requested: 0 units
+[Paging] Pages: 0 | Internal Frag: 0 units
+[Ward] Total Free: 21 | External Frag: 61.90%
+Active Partitions: 8
+---------------------------
+--- Memory Report [ALLOCATION] ---
+Patient ID: 16 | Requested: 1 units
+[Paging] Pages: 1 | Internal Frag: 3 units
+[Ward] Total Free: 20 | External Frag: 60.00%
+Active Partitions: 8
+---------------------------
+--- Memory Report [ALLOCATION] ---
+Patient ID: 20 | Requested: 1 units
+[Paging] Pages: 1 | Internal Frag: 3 units
+[Ward] Total Free: 19 | External Frag: 57.89%
+Active Partitions: 9
+---------------------------
+--- Memory Report [ALLOCATION] ---
+Patient ID: 13 | Requested: 2 units
+[Paging] Pages: 1 | Internal Frag: 2 units
+[Ward] Total Free: 17 | External Frag: 52.94%
+Active Partitions: 10
+---------------------------
+--- Memory Report [ALLOCATION] ---
+Patient ID: 18 | Requested: 3 units
+[Paging] Pages: 1 | Internal Frag: 1 units
+[Ward] Total Free: 14 | External Frag: 64.29%
+Active Partitions: 11
+---------------------------
+--- Memory Report [ALLOCATION] ---
+Patient ID: 15 | Requested: 2 units
+[Paging] Pages: 1 | Internal Frag: 2 units
+[Ward] Total Free: 12 | External Frag: 58.33%
+Active Partitions: 12
+---------------------------
+--- Memory Report [ALLOCATION] ---
+Patient ID: 17 | Requested: 2 units
+[Paging] Pages: 1 | Internal Frag: 2 units
+[Ward] Total Free: 10 | External Frag: 50.00%
+Active Partitions: 13
+---------------------------
+--- Memory Report [ALLOCATION] ---
+Patient ID: 19 | Requested: 3 units
+[Paging] Pages: 1 | Internal Frag: 1 units
+[Ward] Total Free: 7 | External Frag: 42.86%
+Active Partitions: 14
+---------------------------
+--- Memory Report [DEALLOCATION] ---
+Patient ID: 2 | Requested: 0 units
+[Paging] Pages: 0 | Internal Frag: 0 units
+[Ward] Total Free: 9 | External Frag: 33.33%
+Active Partitions: 13
+---------------------------
+--- Memory Report [DEALLOCATION] ---
+Patient ID: 5 | Requested: 0 units
+[Paging] Pages: 0 | Internal Frag: 0 units
+[Ward] Total Free: 10 | External Frag: 30.00%
+Active Partitions: 12
+---------------------------
+--- Memory Report [DEALLOCATION] ---
+Patient ID: 11 | Requested: 0 units
+[Paging] Pages: 0 | Internal Frag: 0 units
+[Ward] Total Free: 14 | External Frag: 50.00%
+Active Partitions: 12
+---------------------------
+--- Memory Report [DEALLOCATION] ---
+Patient ID: 8 | Requested: 0 units
+[Paging] Pages: 0 | Internal Frag: 0 units
+[Ward] Total Free: 18 | External Frag: 38.89%
+Active Partitions: 11
+---------------------------
+--- Memory Report [DEALLOCATION] ---
+Patient ID: 20 | Requested: 0 units
+[Paging] Pages: 0 | Internal Frag: 0 units
+[Ward] Total Free: 19 | External Frag: 42.11%
+Active Partitions: 11
+---------------------------
+--- Memory Report [DEALLOCATION] ---
+Patient ID: 13 | Requested: 0 units
+[Paging] Pages: 0 | Internal Frag: 0 units
+[Ward] Total Free: 21 | External Frag: 47.62%
+Active Partitions: 10
+---------------------------
+--- Memory Report [ALLOCATION] ---
+Patient ID: 12 | Requested: 2 units
+[Paging] Pages: 1 | Internal Frag: 2 units
+[Ward] Total Free: 19 | External Frag: 42.11%
+Active Partitions: 11
+---------------------------
+--- Memory Report [DEALLOCATION] ---
+Patient ID: 18 | Requested: 0 units
+[Paging] Pages: 0 | Internal Frag: 0 units
+[Ward] Total Free: 22 | External Frag: 50.00%
+Active Partitions: 10
+---------------------------
+--- Memory Report [DEALLOCATION] ---
+Patient ID: 15 | Requested: 0 units
+[Paging] Pages: 0 | Internal Frag: 0 units
+[Ward] Total Free: 24 | External Frag: 54.17%
+Active Partitions: 9
+---------------------------
+--- Memory Report [ALLOCATION] ---
+Patient ID: 14 | Requested: 1 units
+[Paging] Pages: 1 | Internal Frag: 3 units
+[Ward] Total Free: 23 | External Frag: 52.17%
+Active Partitions: 9
+---------------------------
+--- Memory Report [DEALLOCATION] ---
+Patient ID: 19 | Requested: 0 units
+[Paging] Pages: 0 | Internal Frag: 0 units
+[Ward] Total Free: 26 | External Frag: 53.85%
+Active Partitions: 7
+---------------------------
+--- Memory Report [DEALLOCATION] ---
+Patient ID: 17 | Requested: 0 units
+[Paging] Pages: 0 | Internal Frag: 0 units
+[Ward] Total Free: 28 | External Frag: 57.14%
+Active Partitions: 6
+---------------------------
+--- Memory Report [DEALLOCATION] ---
+Patient ID: 16 | Requested: 0 units
+[Paging] Pages: 0 | Internal Frag: 0 units
+[Ward] Total Free: 29 | External Frag: 58.62%
+Active Partitions: 5
+---------------------------
+--- Memory Report [DEALLOCATION] ---
+Patient ID: 12 | Requested: 0 units
+[Paging] Pages: 0 | Internal Frag: 0 units
+[Ward] Total Free: 31 | External Frag: 61.29%
+Active Partitions: 4
+---------------------------

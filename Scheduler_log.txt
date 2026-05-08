@@ -1,0 +1,25 @@
+ADMITTED: Ali | ID: 1 | Bed: 0 (ICU) | Strategy: 0
+ADMITTED: Sara | ID: 2 | Bed: 1 (ICU) | Strategy: 0
+ADMITTED: Omar | ID: 3 | Bed: 4 (GENERAL) | Strategy: 0
+ADMITTED: Fatima | ID: 4 | Bed: 3 (ISOLATION) | Strategy: 0
+ADMITTED: Zayn | ID: 5 | Bed: 2 (ICU) | Strategy: 0
+ADMITTED: Aisha | ID: 6 | Bed: 7 (GENERAL) | Strategy: 0
+ADMITTED: Bilal | ID: 7 | Bed: 8 (GENERAL) | Strategy: 0
+ADMITTED: Hira | ID: 8 | Bed: 3 (ICU) | Strategy: 0
+ADMITTED: Usman | ID: 9 | Bed: 6 (ISOLATION) | Strategy: 0
+ADMITTED: Noor | ID: 10 | Bed: 7 (ISOLATION) | Strategy: 0
+| Patient: 3| Patient: 4| Patient: 6
+ADMITTED: Kamran | ID: 11 | Bed: 9 (GENERAL) | Strategy: 0
+| Patient: 7| Patient: 9| Patient: 10| Patient: 1
+ADMITTED: Zara | ID: 16 | Bed: 4 (ICU) | Strategy: 0
+ADMITTED: Iqra | ID: 20 | Bed: 5 (ISOLATION) | Strategy: 0
+ADMITTED: Tariq | ID: 13 | Bed: 6 (ISOLATION) | Strategy: 0
+ADMITTED: Nida | ID: 18 | Bed: 9 (GENERAL) | Strategy: 0
+ADMITTED: Hassan | ID: 15 | Bed: 7 (ISOLATION) | Strategy: 0
+ADMITTED: Waleed | ID: 17 | Bed: 8 (ISOLATION) | Strategy: 0
+ADMITTED: Hamza | ID: 19 | Bed: 12 (GENERAL) | Strategy: 0
+| Patient: 2| Patient: 5| Patient: 11| Patient: 8| Patient: 20| Patient: 13
+ADMITTED: Sana | ID: 12 | Bed: 2 (ISOLATION) | Strategy: 0
+| Patient: 18| Patient: 15
+ADMITTED: Maha | ID: 14 | Bed: 5 (ISOLATION) | Strategy: 0
+| Patient: 19| Patient: 17| Patient: 16| Patient: 12
